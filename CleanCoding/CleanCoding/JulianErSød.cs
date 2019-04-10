@@ -7,5 +7,6 @@ namespace CleanCoding
     class JulianErSød
     {
         //OkayMÅskeLidt
+        //MenLulu er sødere
     }
 }
