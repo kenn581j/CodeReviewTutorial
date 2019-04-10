@@ -6,6 +6,6 @@ namespace CleanCoding
 {
     class JulianErSød
     {
-        //NOT
+        //OkayMÅskeLidt
     }
 }
